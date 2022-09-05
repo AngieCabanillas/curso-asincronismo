@@ -1,0 +1,11 @@
+EJCUTAR EN CONSOLA
+node src/callback/challenge.js
+
+AÑADIR SCRIPT
+*en el archivo package.json
+script{
+	"callback":"src/callback/challenge.js";
+}
+
+EJCUTAR EN CONSOLA (cuando ya se añadió a script)
+npm run callback

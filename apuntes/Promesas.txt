@@ -1,0 +1,14 @@
+Estados de una promesa:
+pending (pendiente): estado inicial, ni cumplido ni rechazado, ejecutando.
+fulfilled (cumplida): lo que significa que la operación se completó con éxito.
+rejected (rechazada): lo que significa que la operación falló.
+
+'Promise'
+funcion anonima que nos regresa una funcion con 1 funciones dentro (resolve y reject)
+resolve-> llamar con exito a resolve y mostrar al usuario
+reject -> hacer una validacion del error y mostrar al usuario
+
+Metodos de una promesa
+-then
+-catch
+-finally

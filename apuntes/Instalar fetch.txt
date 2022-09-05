@@ -1,0 +1,15 @@
+*en la consola
+npm i node-fetch
+
+*en el codigo
+import fetch from 'node-fetch';
+
+*en package.json
+"type":module
+
+MÉTODO FETCH
+El método global fetch()inicia el proceso de obtener un recurso de la red, devolviendo una promesa que se cumple una vez que la respuesta está disponible.
+
+La promesa se resuelve en el Responseobjeto que representa la respuesta a su solicitud.
+
+Una fetch()promesa solo se rechaza cuando se encuentra un error de red (que suele ser cuando hay un problema de permisos o similar). Una fetch()promesa no se rechaza por errores HTTP ( 404, etc.). En su lugar, un then()controlador debe verificar las propiedades Response.oky/o Response.status.

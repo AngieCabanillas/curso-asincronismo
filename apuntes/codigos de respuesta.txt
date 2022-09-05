@@ -1,0 +1,6 @@
+ready state
+0 -> no sea ha inicializado
+1 -> loading- cargando, aun no se ha llamado el 'send'
+2 -> cuando ya se ejecutó el 'send'
+3 -> interactuando, descargando o trabajando con la solicitud
+4 -> se completó la solicitud

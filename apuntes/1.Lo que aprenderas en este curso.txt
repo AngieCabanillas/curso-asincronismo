@@ -1,0 +1,15 @@
+Aprenderemos
+
+-la importancia del uso de este concepto en JS
+
+-las principales elementos que tiene JS para manejar el asincronismo:
+
+**Callbacks
+**Promesas
+**Async/await
+
+
+-Tendremos un proyecto aplicando lo aprendido, usaremos HTML, CSS y JS además de desplegarlo.
+
+Recomendacion:
+Para tener una mejor base sobre la forma de trabajar de JS en el navegador deben llevar el curso de JS Engine y navegador. El asincronismo de JS es posible gracias a una parte del navegador conocido como event loop ( algo que el profesor explicara) la cual trabaja con otras partes del navegador que estaria bien conocieran.

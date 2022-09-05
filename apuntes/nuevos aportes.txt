@@ -1,0 +1,5 @@
+(async() =>{
+
+})();
+
+manera de ejecutar una funcion automaticamente sin que la mandes llamar

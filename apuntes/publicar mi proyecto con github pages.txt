@@ -1,0 +1,6 @@
+subir todos los cambios
+
+agregar script:
+"deploy":"gh-pages -d src"
+
+npm run deploy

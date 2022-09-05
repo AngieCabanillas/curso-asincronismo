@@ -1,0 +1,2 @@
+inicializar  mi proyecto
+npm init -y
