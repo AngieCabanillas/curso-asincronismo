@@ -29,17 +29,6 @@ PATCH → Actualiza parcialmente un recurso.
 DELETE → Elimina un recurso.
 
 
-Los códigos de estados del servidor:
-
-El código de estado (status codes) sirve para describir el estado de la petición hecha al servidor.
-
-1xx → Indican que la petición fue recibida por el servidor, pero está siendo procesada por el servidor.
-2xx → Indican que la petición fue recibida, aceptada y procesada correctamente.
-3xx → Indican que hay que tomar acciones adicionales para completar la solicitud.
-4xx → Indican errores del lado del cliente que hizo mal una solicitud.
-5xx → Indican errores del servidor. Suelen aparecer cuando existe un fallo en la ejecución en el servidor.
-
-
 Los códigos más comunes a la hora de interactuar con una API son:
 
 
